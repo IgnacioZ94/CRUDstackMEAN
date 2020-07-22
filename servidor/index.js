@@ -20,5 +20,5 @@ app.set('port', process.env.PORT || 3000);
 
 // Starting Server
 app.listen(app.get('port'), () => {
-    console.log('Server en puerto 3000')
+    console.log('Server en puerto',app.get('port'))
 });
