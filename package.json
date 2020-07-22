@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/IgnacioZ94/CRUDstackMEAN/issues"
   },
-  "homepage": "https://github.com/IgnacioZ94/CRUDstackMEAN#readme"
+  "homepage": "https://github.com/IgnacioZ94/CRUDstackMEAN#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
